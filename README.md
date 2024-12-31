@@ -88,11 +88,10 @@ Building custom solutions on the Salesforce platform, leveraging **Apex** and **
 
 ## 🤝 **Let's Connect!**  
 
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)  
-- 🌐 **Portfolio**: [yourportfolio.com](#)  
+- 📧 **Email**: manenitinm1978@gmail.com
+- 🌐 **Portfolio**: nitinmane.vercel.app 
 - 💼 **LinkedIn**: [linkedin.com/in/nitinmahadevmane](#)  
-- 🐙 **GitHub**: [github.com/NitinMahadevMane](https://github.com/NitinMahadevMane)  
-
+- 🐙 **GitHub**: https://github.com/NitinMane99/NitinMane99/edit/main/README.md
 ---
 
 ## ⭐ **Support My Work**  
