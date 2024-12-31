@@ -78,10 +78,10 @@ Custom Salesforce solutions using Apex and Lightning Web Components.
 ---
 
 ## 🤝 Let's Connect!  
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)  
-- 🌐 **Portfolio**: [yourportfolio.com](#)  
+- 📧 **Email**: [your.email@example.com](mailto:manenitinm1978@gmail.com)  
+- 🌐 **Portfolio**: https://nitinmane.vercel.app/  
 - 💼 **LinkedIn**: [linkedin.com/in/nitinmahadevmane](#)  
-- 🐙 **GitHub**: [github.com/NitinMahadevMane](#)  
+- 🐙 **GitHub**: https://github.com/NitinMane99/NitinMane99/edit/main/README.md 
 
 ---
 
