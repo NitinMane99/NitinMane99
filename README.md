@@ -3,8 +3,8 @@
 
 ---
 
-## 👋 **Welcome to My GitHub Profile!**  
-Hi there! I'm **Nitin Mahadev Mane**, a passionate and skilled **Full-Stack Developer** with over **3 years of experience** in building dynamic and scalable web applications. I specialize in the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and have experience with **Salesforce development** (Apex, LWC). I love crafting clean, maintainable, and efficient code that creates a seamless user experience.  
+## 🚀 **Welcome to My GitHub Profile!**  
+Hi there! I'm **Nitin Mahadev Mane**, a passionate **Full-Stack Developer** with over **3 years of experience** in building dynamic and scalable web applications. I specialize in the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and have experience with **Salesforce development** (Apex, LWC). I love crafting clean, maintainable, and efficient code that creates a seamless user experience.  
 
 Here you will find a collection of my projects and contributions, where I showcase my skills and passion for software development. 🌐💻
 
@@ -86,6 +86,16 @@ Building custom solutions on the Salesforce platform, leveraging **Apex** and **
 
 ---
 
+## 🏅 **Badges & Achievements**  
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/NitinMahadevMane?style=social" alt="GitHub Followers" />  
+  <img src="https://img.shields.io/github/stars/NitinMahadevMane?style=social" alt="GitHub Stars" />  
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="MIT License" />
+</p>
+
+---
+
 ## 🤝 **Let's Connect!**  
 
 - 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)  
@@ -103,6 +113,17 @@ Feel free to **fork**, **star**, and **share** the repositories. 🌱
 
 ## 🌟 **Fun Fact**  
 I believe that **coding is a continuous journey of learning** and improving. Each project I work on is an opportunity to grow, innovate, and solve real-world problems. When I’m not coding, I enjoy reading tech blogs, participating in hackathons, and exploring new technologies!
+
+---
+
+### 💫 **Marquee Text Animation**  
+
+<!-- Marquee for some fun and engagement -->
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="10">
+    🚀 Check out my latest projects and connect with me! 🚀
+  </marquee>
+</p>
 
 ---
 
